@@ -30,6 +30,6 @@ cd ~/scrap_env_setup
 python test_env.py
 
 # modify bashrc
-echo 'conda activate rlsim"' >> ~/.bashrc
+echo 'conda activate rlsim' >> ~/.bashrc
 
 cd ${CURRENT_DIR}
